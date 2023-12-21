@@ -1,0 +1,13 @@
+[21-Dec-2023 08:55:24 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[21-Dec-2023 08:55:25 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[21-Dec-2023 08:55:25 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[21-Dec-2023 08:55:25 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[21-Dec-2023 08:55:25 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[21-Dec-2023 08:55:25 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[21-Dec-2023 08:55:35 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[21-Dec-2023 08:55:36 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[21-Dec-2023 08:55:36 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[21-Dec-2023 08:55:36 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[21-Dec-2023 08:55:36 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[21-Dec-2023 08:55:36 UTC] PHP Warning:  Undefined variable $qsid in /Users/invite/Local Sites/planty/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[21-Dec-2023 08:55:37 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
