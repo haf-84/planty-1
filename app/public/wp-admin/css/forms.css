@@ -418,6 +418,7 @@ input[type="radio"].disabled:checked:before {
 	border-bottom-left-radius: 3px;
 	border-bottom-right-radius: 3px;
 	border: none;
+	
 }
 
 form p.submit a.cancel:hover {
