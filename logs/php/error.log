@@ -54,3 +54,9 @@
 [11-Jan-2024 11:01:54 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
 [18-Jan-2024 17:06:55 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
 [18-Jan-2024 17:09:32 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jan-2024 19:25:25 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jan-2024 19:28:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jan-2024 19:30:34 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jan-2024 19:35:49 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Jan-2024 19:38:41 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[20-Jan-2024 11:58:07 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/invite/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
