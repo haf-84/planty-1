@@ -1,3 +1,11 @@
 AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-ESSAI.local. Set the 'ServerName' directive globally to suppress this message
 [Tue Dec 19 20:59:00.860697 2023] [mpm_event:notice] [pid 6574:tid 4604057088] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
 [Tue Dec 19 20:59:00.861484 2023] [core:notice] [pid 6574:tid 4604057088] AH00094: Command line: '/Users/invite/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/invite/Library/Application Support/Local/run/WQ1G7N0od/conf/apache/apache2.conf'
+[Sun Jan 21 19:05:03.199994 2024] [mpm_event:notice] [pid 6574:tid 4604057088] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-ESSAI.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 21 19:07:51.455847 2024] [mpm_event:notice] [pid 24173:tid 4462003712] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jan 21 19:07:51.456441 2024] [core:notice] [pid 24173:tid 4462003712] AH00094: Command line: '/Users/invite/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/invite/Library/Application Support/Local/run/WQ1G7N0od/conf/apache/apache2.conf'
+[Sun Jan 21 20:56:25.364283 2024] [mpm_event:notice] [pid 24173:tid 4462003712] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-ESSAI.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 21 20:57:25.573183 2024] [mpm_event:notice] [pid 25372:tid 4551423488] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jan 21 20:57:25.573734 2024] [core:notice] [pid 25372:tid 4551423488] AH00094: Command line: '/Users/invite/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/invite/Library/Application Support/Local/run/WQ1G7N0od/conf/apache/apache2.conf'
