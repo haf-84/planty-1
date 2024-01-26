@@ -23,13 +23,17 @@ add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 // END ENQUEUE PARENT ACTION
 
-add_filter( 'wp_nav_menu_items','add_extra_item_to_nav_menu', 10, 2 );
 
-function add_extra_item_to_nav_menu( $items, $args ) {
+add_filter('wp_nav_menu_items','add_admin_link', 10, 2 );
 
-    if (is_user_logged_in() && $args->theme_location == 'menu-1') {
+function add_admin_link( $items, $args ) {
 
-        $items .= '<li><a href="'. get_admin_url() .'">Admin</a></li>';
+    if (is_user_logged_in()) {
+
+        //$items .= '<li><a href="'.get_admin_url().'">Admin</a></li>';
+		
+		$items .= '<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="'.get_admin_url().'" class="hfe-menu-item">Admin</a></li>';
     }
+    
     return $items;
-}
+};
