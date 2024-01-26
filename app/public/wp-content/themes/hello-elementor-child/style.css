@@ -10,3 +10,10 @@ Version: 2.9.0.1703171180
 Updated: 2023-12-21 15:06:20
 
 */
+
+@media screen and (max-width 768px){
+		.form-commander-categories-produits{
+			display:flex;
+			flex-direction:column !important;
+		}
+	};
